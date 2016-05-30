@@ -1,0 +1,3 @@
+[submodule "reg"]
+	path = reg
+	url = git@github.com:juvenal/mo802e-reg.git
